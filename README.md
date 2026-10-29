@@ -44,9 +44,7 @@ I am a Computer Science Engineering student specializing in **Artificial Intelli
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+https://github.com/ChandanSamanta69/ChandanSamanta69/blob/output/github-snake-dark.svg
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ChandanSamanta69&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
