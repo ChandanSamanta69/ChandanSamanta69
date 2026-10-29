@@ -44,7 +44,7 @@ I am a Computer Science Engineering student specializing in **Artificial Intelli
 
 <!-- Snake Game Repo View -->
 
-https://github.com/ChandanSamanta69/ChandanSamanta69/blob/output/github-snake-dark.svg
+![snake_gif](https://github.com/ChandanSamanta69/ChandanSamanta69/blob/output/github-snake-dark.svg)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ChandanSamanta69&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
